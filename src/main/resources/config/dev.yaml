@@ -1,0 +1,12 @@
+http:
+  
+  port: "8081"
+  readtimeout: "3000"
+  
+sf:
+  username: "padmay524@gmail.com"
+  password: "Sanjeeva@1234"
+  securityToken: "m22H0wxXkykZjOJXdsJiKpru"
+  URl: "https://login.salesforce.com/services/Soap/u/57.0"
+  
+  
